@@ -88,7 +88,6 @@ airline-pricing-project/
     └── Airline_Premium_Pitch_Deck.pptx  ← Final Presentation
 ```
 
----
 
 ## Results Summary
 
